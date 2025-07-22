@@ -1,0 +1,13 @@
+NORTHERN CORN LEAF BLIGHT DETECTION EVALUATION
+============================================================
+
+Image-Level Classification Metrics:
+Total Images: 263
+True Positives: 132
+False Negatives: 35
+False Positives: 3
+True Negatives: 93
+Accuracy:  0.8555
+Precision: 0.9778
+Recall:    0.7904
+F1 Score:  0.8742
